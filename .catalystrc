@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "16598000000137089",
+      "name": "sleep",
+      "domain": {
+        "id": "10117479767",
+        "name": "sleep-900403292.development"
+      },
+      "timezone": "America/Chicago",
+      "env": [
+        {
+          "idx": 1,
+          "id": "900403292",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
